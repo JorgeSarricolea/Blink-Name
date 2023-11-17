@@ -9,7 +9,7 @@ import java.util.Map;
 
 public class BlinkName {
 
-    public static final String NAME = "Jorge Sarricolea";
+    public static final String NAME = "Jorge Sarricolea Veyro";
     public static final int TEXT_SIZE = 72;
     public static final int COLOR_BLINK = 80; // Milliseconds
 
@@ -25,7 +25,7 @@ public class BlinkName {
         label.setHorizontalAlignment(SwingConstants.CENTER);
         label.setVerticalAlignment(SwingConstants.CENTER);
         frame.getContentPane().add(label);
-        frame.setSize(800, 200);
+        frame.setSize(1000, 200);
         frame.setLocationRelativeTo(null);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
@@ -103,3 +103,8 @@ class ColorChanger implements Runnable {
         }
     }
 }
+
+/* Jorge Sarricolea Veyro
+ * jjorgesarricole18@gmail.com
+ * 17/nov/2023
+ */
