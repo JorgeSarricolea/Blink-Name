@@ -2,11 +2,15 @@
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
-3. [Features](#features)
-4. [Contribution](#contribution)
-5. [Copyright](#copyright)
+- [Blink-Name](#blink-name)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+  - [Features](#features)
+  - [Contribution](#contribution)
+  - [Copyright](#copyright)
 
 ## Introduction
 
@@ -23,15 +27,19 @@ To get started with "Blink Name", follow these simple steps:
 ### Installation
 
 1. Clone the repository to your local machine:
+
 ```
-git clone https://github.com/JorgeSarricolea/Blink-Name.git
+git clone https://github.com/JorgeSarricolea/Blink-Name
 ```
 
 2. Navigate to the project directory:
+
 ```
 cd Blink-Name
 ```
+
 3. Compile and run the game using the following command:
+
 ```
 javac Blink-Name.java && java Blink-Name
 ```
@@ -49,4 +57,3 @@ While contributions to this project are welcome. If you would like to contribute
 ## Copyright
 
 This project was created by [Jorge Sarricolea](https://jorgesarricolea.com). if you have any specific code questions or would like to chat about programming, feel free to contact me on [WhatsApp](https://wa.me/529381095593).
-
