@@ -22,7 +22,8 @@ To get started with "Blink Name", follow these simple steps:
 
 ### Prerequisites
 
-**Java:** Ensure that you have Java installed on your system.
+> [!IMPORTANT] 
+> **Java:** Ensure that you have Java installed on your system.
 
 ### Installation
 
